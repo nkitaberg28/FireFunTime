@@ -1,7 +1,7 @@
 # FireFunTime - Огненный смерч для PocketMine-MP
 
-[![PMMP Version](https://img.shields.io/badge/PocketMine-5.0.0+-blue.svg)](https://pmmp.io)
-[![NG Support](https://img.shields.io/badge/NetherGamesMC-1.20--1.21.93-green.svg)](https://nethergamesmc.com)
+[![PMMP Version](https://img.shields.io/badge/PocketMine-5.0.0+-blue.svg)](https://github.com/pmmp/PocketMine-MP)
+[![NG Support](https://img.shields.io/badge/NetherGamesMC-1.20--1.21.93-green.svg)](https://github.com/NetherGamesMC/PocketMine-MP)
 
 Плагин добавляет функционал "Огненного смерча" аналогичный проекту FunTime для PocketMine-MP 5.0.0+ и совместимых форков.
 
